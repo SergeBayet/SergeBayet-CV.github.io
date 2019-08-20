@@ -1,2 +1,2 @@
-# SergeBayet-CV.github.io
-CV Publique
+# Mon-CV
+Exercice HTML/CSS (Grid enhancement)
